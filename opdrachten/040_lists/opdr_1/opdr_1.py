@@ -1,9 +1,17 @@
 # Opdracht 1 lists
-# Naam student:
-# Groep:
+# Naam student: Ryan
+# Groep: IT2B
 
-mylist = ...
-dict_1 = ...
-dict_2 = ...
-dict_3 = ...
-dict_4 = ...
+lijst = []
+
+persoon1 = {"id": 0, "voornaam": "Jan", "achternaam": "Jansen"}
+persoon2 = {"id": 1, "voornaam": "Emma", "achternaam": "Pieters"}
+persoon3 = {"id": 2, "voornaam": "Lars", "achternaam": "Bakker"}
+persoon4 = {"id": 3, "voornaam": "Sophie", "achternaam": "Vermeulen"}
+
+lijst.append(persoon1)
+lijst.append(persoon2)
+lijst.append(persoon3)
+lijst.append(persoon4)
+
+print(lijst[1]["voornaam"], lijst[1]["achternaam"])
