@@ -1,13 +1,13 @@
 # Opdracht 2 condities
-# Naam student:
-# Groep:
+# Naam student: Ryan
+# Groep: IT2B
 
 # Hier komt je code...
 
 # Hier start de for-loop
 
-my_list = [43948, 878768, 38768, 87555, 765765]
+numbers = [43948, 87868, 38768, 87555, 765765]
 
-# for...:
-#   if...:
-#       print()
+for num in numbers:
+    if num % 3 == 0:
+        print(num)

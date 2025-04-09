@@ -1,0 +1,10 @@
+Enquete Resultaten
+=================
+Vraag 1: Wat vind je van de huidige regering?
+Antwoord: matig
+
+Vraag 2: Wat vind je van de Python-lessen tot nu toe?
+Antwoord: teveel huiswerk wordt gegeven
+
+Vraag 3: Wat vind jij de mooiste stad van Nederland?
+Antwoord: kampen

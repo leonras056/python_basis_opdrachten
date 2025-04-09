@@ -1,12 +1,12 @@
 # Opdracht 1 functies
-# Naam student:
-# Groep:
+# Naam student: Ryan
+# Groep: IT2B
+
 
 
 def write_to_file(afile, atext):
-    # je code komt hier
-    # het woordje pass hieronder kun je weghalen
-    pass
+    with open(afile, "a", encoding="utf-8") as f:
+        f.write(atext + "\n")
 
 my_tekst = "Schrijf dit maar even in een bestandje"
 my_file = "test.txt"

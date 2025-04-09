@@ -1,9 +1,14 @@
 # Opdracht 3 input functie
-# Naam student:
-# Groep:
+# Naam student: Ryan
+# Groep:IT2B
 
 # Hier komt je code...
 
 # Hier start de for-loop
 
-my_list = []
+results = []
+for i in range(3, 81, 3):
+    square = i ** 2
+    result = square / 3
+    results.append(result)
+print(results)

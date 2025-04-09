@@ -1,5 +1,5 @@
 # Opdracht 1 functies
-# Naam student:
-# Groep:
+# Naam student: Ryan
+# Groep: IT2B
 
 # importeer de module csv...

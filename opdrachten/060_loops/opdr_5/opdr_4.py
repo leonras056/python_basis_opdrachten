@@ -6,4 +6,8 @@
 
 # Hier start de for-loop
 
-my_list = []
+results = []
+for x in range(1, 11):
+    y = 4 * x + 7
+    results.append(y)
+print(results)
